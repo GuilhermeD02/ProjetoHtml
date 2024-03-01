@@ -1,6 +1,3 @@
-# Primeiro Projeto HTMl CSS
-Este é o meu primeiro exercicio html
+# Primeiro Projeto HTMl CSS 
+Este é o meu primeiro exercicio HTML e CSS.
 
-`style css`
-
-Está e minha primeira alteração.
